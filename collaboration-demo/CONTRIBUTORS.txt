@@ -1,4 +1,4 @@
-# Hello there, here you can add your name and don't forget to commit the changes.
+# Hello there, here you can add your name and don't forget to commit the changes
 Ali
 Mohammad
 Mahyar
